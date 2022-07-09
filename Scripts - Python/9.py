@@ -1,0 +1,11 @@
+n= int(input('Digite um numero '))
+n2= int(n*2)
+n3= int(n*3)
+n4= int(n*4)
+n5= int(n*5)
+n6= int(n*6)
+n7= int(n*7)
+n8= int(n*8)
+n9= int(n*9)
+print('A tabuada de {} e {} {} {} {} {} {} {} {}'. format(n,n2,n3,n4,n5,n6,n7,n8,n9))
+

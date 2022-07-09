@@ -1,0 +1,5 @@
+c= int(input('Qual o comprimento da parede, em metros? '))
+l= int(input('Qual a largura da parede, em metros? '))
+a= int(c*l)
+t= int(a/2)
+print('{} litros de tinta sao necessarios para pintar {} metros de parede '.format(t,a))

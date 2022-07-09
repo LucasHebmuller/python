@@ -1,0 +1,5 @@
+n= int(input('Digite um numero '))
+n1= int(n*2)
+n2= int(n*3)
+n3= int(n**(1/2))
+print (n, n1, n2, n3)
